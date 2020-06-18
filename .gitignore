@@ -1,4 +1,6 @@
 node_modules
 app_coffee_version.js
-app_coffee_version.map
+app_coffee_version.js.map
 .idea
+app_react_table_683.js
+app_react_table_683.js.map
