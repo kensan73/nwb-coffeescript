@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "file": "app_coffee_version.js",
+  "sourceRoot": "",
+  "sources": [
+    "app_coffee_version.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;;AAAA,OAAO,KAAP,MAAA;;AAEA,GAAA,GAAM,QAAA,CAAA,CAAA;SACJ,CAAA,EAAA,CAAI,oBAAJ,EAAA,EAAA;AADI;;AAGN,OAAA,QAAe;;AALf",
+  "sourcesContent": [
+    "import React from 'react'\r\n\r\nApp = () ->\r\n  <h1>Hello world from CS!</h1>\r\n\r\nexport default App\r\n\r\n# test 123 4\r\n"
+  ]
+}
